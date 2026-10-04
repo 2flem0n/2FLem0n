@@ -39,5 +39,5 @@ Web-scroll progressive blur effect for everyone. Open-source.
 
 ### Visitors since 26/10/04
 <div align="center">
-  <img src="https://count.getloli.com/@2flem0n?theme=booru-helltaker&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="visitor counter"/>
+  <img src="https://count.getloli.com/@2flem0n?theme=booru-helltaker&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0" alt="visitor counter"/>
 </div>
