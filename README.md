@@ -21,8 +21,6 @@ Email: [2flem0ngd@gmail.com](mailto:2flem0ngd@gmail.com)
 ---
 
 ### Projects
-[![LemonGDPS](https://img.shields.io/badge/GDPS-LemonGDPS-FFFDA4)](https://github.com/2flem0n/LemonGDPS)<br>
-My community driven Geometry Dash Private Server project that hosted by AlwaysData.<br>
 
 [![Progressive Blur](https://img.shields.io/badge/Progressive-Blur-white)](https://github.com/2flem0n/Progressive-Blur)<br>
 Web-scroll progressive blur effect for everyone. Open-source.
